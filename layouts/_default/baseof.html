@@ -7,6 +7,16 @@
   data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
 {{- partial "head.html" . -}}
 
+<script src="<https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js>"></script>
+<link rel="preconnect" href="https://app.snipcart.com">
+<link rel="preconnect" href="https://cdn.snipcart.com">
+<link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css" />
+<script async src="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.js"></script>
+​​<div hidden id="snipcart" data-api-key="OTU5NWIyMGItM2I2Mi00MzIyLWI2OGEtNjEwZTE5OTc3ZDZlNjM4NzMwODIyMjYwNzA0NzM5"></div>
+{{ with resources.Get "sass/product.scss" }}  
+{{ $style := . | css.Sass }}
+<link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css"> 
+{{ end }}
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
   <div id="the-top" class="absolute flex self-center">
