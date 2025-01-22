@@ -17,7 +17,7 @@ replyByEmail = false
 mainSections = ["docs"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 disableTextInHeader = true
 # backgroundImageWidth = 1200
 
