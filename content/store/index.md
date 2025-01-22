@@ -3,6 +3,9 @@ title: "Supervision & CEs"
 description:
 layout: store
 sharingLinks: false
+showauthor: false
+authors:
+    - "laurenamason"
 ---
 
 # Vultus modo Musae sine parvoque pendeat dissiluit

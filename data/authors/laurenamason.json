@@ -1,0 +1,10 @@
+{
+    "name": "Lauren Amason",
+    "image" : "img/lauren-amason.jpg",
+    "bio": "LPC, NCC",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/laurenamason" },
+        { "facebookk": "https://facebook.com/laurenamason" },
+        { "instagram": "https://instagram.com/laurenamason" }
+    ]
+}
