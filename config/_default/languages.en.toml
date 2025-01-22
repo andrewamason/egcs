@@ -15,9 +15,9 @@ weight = 1
   name = "Evergreen Counseling Services"
   email = "info@egcs.health"
   image = "img/egcs_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
+  #headline = "A powerful, lightweight theme for Hugo."
   bio = "A powerful, lightweight theme for Hugo."
   links = [
-    { facebook = "https://twitter.com/burufugu" },
-    { intagram = "https://github.com/nunocoracao/blowfish" },
+    { facebook = "https://facebook.com/evergreencounselingservices" },
+    { instagram = "https://instagram.com/evergreencounselingservices" },
   ]
