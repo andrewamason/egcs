@@ -1,25 +1,25 @@
 [
 	{
-		"id": "STRATUS",
-		"name": "Stratus",
-		"price": 9.95,
-		"image": "/uploads/stratus.jpg",
+		"id": "CEU001",
+		"name": "CEU Class 1",
+		"price": "60",
+		"image": "/products/egcs_logo.png",
 		"description": "Unlimited low, low clouds for one low, low price!",
 		"product_url": "/"
 	},
 	{
-		"id": "ALTOSTRATUS",
-		"name": "Altostratus",
-		"price": "19.95",
-		"image": "/uploads/altostratus.jpg",
+		"id": "CEU002",
+		"name": "CEU Class 2",
+		"price": "60",
+		"image": "/products/egcs_logo.png",
 		"description": "Our translucent altostratus clouds are fully capable of masking the sun, with colour options ranging from uniform grey to blush-green.",
 		"product_url": "/"
 	},
 	{
-		"id": "CUMULUS",
-		"name": "Cumulus",
-		"price": "39.95",
-		"image": "/uploads/cumulus.jpg",
+		"id": "CEU003",
+		"name": "CEU Class 3",
+		"price": "60",
+		"image": "/products/egcs_logo.png",
 		"description": "Naturally fluffy up top and lovingly flattened on the base, our cumulus clouds are the ideal decoration for fair-weather skies.",
 		"product_url": "/"
 	}
