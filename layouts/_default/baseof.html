@@ -10,7 +10,11 @@
 <script src="<https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js>"></script>
 <link rel="preconnect" href="https://app.snipcart.com">
 <link rel="preconnect" href="https://cdn.snipcart.com">
-<link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css" />
+<!--<<link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css" />-->
+>{{ with resources.Get "css/snipcart.css" }}  
+{{ $style := . | css.Sass }}
+<link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css"> 
+{{ end }}
 <script async src="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.js"></script>
 ​​<div hidden id="snipcart" data-api-key="OTU5NWIyMGItM2I2Mi00MzIyLWI2OGEtNjEwZTE5OTc3ZDZlNjM4NzMwODIyMjYwNzA0NzM5"></div>
 {{ with resources.Get "sass/product.scss" }}  
