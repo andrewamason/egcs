@@ -1,29 +1,40 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+#title: "Evergreen Counseling Services, LLC"
+description: "Evergreen Counseling Services"
 ---
 
+Counseling | Supervision | Training  
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
+Locations: Sylvania |  Virtual
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-```node
-npx blowfish-tools
-```  
+<h1 style="text-align: center"> Get in Touch</h1>
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+------------
 
+<p style="text-align: center;">
+<strong>Sylvania/Telehealth</strong> </br>
+<a href="tel:(912)504-1210">(912)504-1210</a> </br>
+<a href="mailto:info@egcs.health">info@egcs.health</a> </br>
+</br>
+<strong>Our Office:</strong> (By Appointment Only)</br>
+215 Industrial Rd,</br>
+Sylvania, GA</br>
+<strong>Fax:</strong> 912-504-1200  |  <strong>Correspondence</strong> PO Box 1222 Sylvania, GA 30460
+</p>
 
+-------------------
+
+Good Faith Estimate
+-------------------
+
+You have the right to receive a “Good Faith Estimate” explaining how much your health care will cost.  
+​Under the law, health care organizations need to give patients who don’t have insurance or who are not using insurance an estimate of the bill for medical items and services.
+
+* You have the right to receive a Good Faith Estimate for the total expected cost of any non-emergency items or services.  This includes related costs like medical tests, prescription drugs, equipment, and hospital fees.
+* Make sure your health care organization gives you a Good Faith Estimate in writing at least 1 business day before your medical service or item. You can also ask your health care organization, and any other organization you choose, for a Good Faith Estimate before you schedule an item or service.
+* If you receive a bill that is at least $400 more than your Good Faith Estimate, you can dispute the bill.
+* Make sure to save a copy or picture of your Good Faith Estimate. 
+
+For questions or more information about your right to a Good Faith Estimate, visit [www.cms.gov/nosurprises](http://www.cms.gov/nosurprises) or call [1-800-985-3059](tel:1-800-985-3059).

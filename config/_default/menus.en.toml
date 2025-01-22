@@ -14,6 +14,10 @@
   name = "About"
   pageRef = "about"
   weight = 10
+[[subnavigation]]
+  name = "Our Team"
+  pageRef = "counselors"
+  wight = 10
 [[main]]
   name = "Counseling"
   weight = 20
@@ -22,12 +26,12 @@
   parent = "Counseling"
   pageRef = "In_Person_or_Virtual"
   weight = 10
-[[subnavigation]]
+[[main]]
   name = "What to Expect"
   parent = "Counseling"
   pageRef = "What_to_Expect"
   weight = 20
-[[subnavigation]]
+[[main]]
   name = "Payment Options"
   parent = "Counseling"
   pageRef = "Payment_Options"
@@ -35,16 +39,12 @@
 [[main]]
   name = "Supervision & CEs"
   #pre = "github"
-  pageRef = "categories/Supervision & CEs"
+  pageRef = "store"
   weight = 30
 [[main]]
   name = "Resources"
-  pageRef = "categories/Resources"
+  pageRef = "docs"
   weight = 40
-[[main]]
-  name = "Contact Us"
-  pageRef = "Contact_Us"
-  weight = 50
 
 
 # -- Footer Menu --

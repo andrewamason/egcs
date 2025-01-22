@@ -38,5 +38,31 @@
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
   data-id="{{ .Site.Params.buymeacoffee.identifier }}" data-description="Support me on Buy me a coffee!" data-message="{{ .Site.Params.buymeacoffee.globalWidgetMessage | default "" }}"
   data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18"></script>
-{{ end }}
+
+  {{ end }}
+  <div id="customFloatingButton">
+    <a href="contact-us">Get Started</a>
+  </div>
+  
+  <style>
+    #customFloatingButton {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+    }
+    #customFloatingButton a {
+        border-radius: 25px;
+        display: inline-block;
+        background-color: #8FBC8F;
+        color: white;
+        padding: 15px 30px;
+        text-decoration: none;
+        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.5);
+        transition: 200ms;
+    }
+    #customFloatingButton a:hover {
+        transform: scale(1.04);
+    }
+  </style>
 </html>

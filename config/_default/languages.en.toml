@@ -12,12 +12,12 @@ weight = 1
   description = "A powerful, lightweight theme for Hugo."
 
 [params.author]
-  name = "Blowfish"
-  email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
+  name = "Evergreen Counseling Services"
+  email = "info@egcs.health"
+  image = "img/egcs_logo.png"
   headline = "A powerful, lightweight theme for Hugo."
   bio = "A powerful, lightweight theme for Hugo."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { facebook = "https://twitter.com/burufugu" },
+    { intagram = "https://github.com/nunocoracao/blowfish" },
   ]
