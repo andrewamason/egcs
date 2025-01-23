@@ -125,8 +125,6 @@ If any of this resonates with you, let Georgia partner with you to help create t
 </div>
 <div class="line-custom">
 
-{{< article link="/docs/good-faith-estimate/" >}}
-
 <meta>
-<title> Welcome to Evergreen Counseling Servicese</title>
+<title> Welcome to Evergreen Counseling Services</title>
 </meta>
