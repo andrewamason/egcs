@@ -6,11 +6,11 @@
   {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " light" }}"
   data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
 {{- partial "head.html" . -}}
-
+<!-- The Following Block is disabled to take out the store functionality till we are ready to launch the store -->
+ <!--
 <script src="<https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js>"></script>
 <link rel="preconnect" href="https://app.snipcart.com">
 <link rel="preconnect" href="https://cdn.snipcart.com">
-<!--<<link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css" />-->
 >{{ with resources.Get "css/snipcart.css" }}  
 {{ $style := . | css.Sass }}
 <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css"> 
@@ -21,6 +21,7 @@
 {{ $style := . | css.Sass }}
 <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css"> 
 {{ end }}
+-->
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
   <div id="the-top" class="absolute flex self-center">
