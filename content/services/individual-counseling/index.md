@@ -25,7 +25,7 @@ Whether you’re struggling with anxiety, stress, depression, or grief, we’re 
 
 ## Family Support
 
-For kids and teens, family involvement can be key. We work with parents, too, to help them understand what their child is going through and support them at home. This might include helping families improve communication or offering parenting tips for dealing with tough situations like ADHA, stress, divorce, anxiety, or grief. 
+For kids and teens, family involvement can be key. We work with parents, too, to help them understand what their child is going through and support them at home. This might include helping families improve communication or offering parenting tips for dealing with tough situations like ADHA, stress, divorce, anxiety, or grief.
 
 ## Why Choose Us?
 
