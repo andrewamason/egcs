@@ -11,6 +11,7 @@
 *.sln.docstates
 *.DS_Store
 
+resources/_gen/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -407,3 +408,4 @@ _vendor
 
 #Hugo Rendered Site
 public/
+resources/_gen/
