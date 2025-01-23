@@ -11,31 +11,30 @@ description: "Evergreen Counseling Services"
 # Welcome to Evergreen Counseling Services
 </div>
 <div style="text-align: center"> {{< lead >}}We are glad you are here.{{< /lead >}} </div>
-
-<div style="width: 40%">
+<div class="line-custom">
 
 ## WE PROVIDE
-------------
+---
 </div>
 <div class="box-services">
 <div>
 <h2>Counseling</h2>
 
-**Individual Counseling** for children, teens, and adults <br />
+**Individual Counseling** for children, teens, and adults <br /> [More Information](/services/individual-counseling/)<br />
 
-**Couple’s Counseling** for couples looking to get help for their marriage or couples interested in premarital counseling
+**Couple’s Counseling** for couples looking to get help for their marriage or couples interested in premarital counseling <br /> [More Information](/services/couples-counseling/)
 </div>
 <div>
-<h2>Classes</h2>
+<h2>Classes & Workshops</h2>
 
-**Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways
+**Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways <br /> [More Information](/classes/anger-management/)
 </div>
 <div>
 <h2>Clinical Supervision & Courses</h2>
 
-**Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br />
+**Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br /> [More Information](/services/clinical-supervision/) <br />
 
-**Continuing Education** for other clinicians interested in learning more about mental health
+**Continuing Education** for other clinicians interested in learning more about mental health <br /> [More Information](/services/continuing-ed/)
 </div>
 </div>
 
@@ -47,10 +46,11 @@ description: "Evergreen Counseling Services"
 **Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br />
 **Continuing Education** for other clinicians interested in learning more about mental health
 </div><br /> -->
-<div style="width: 40%">
+
+<div class="line-custom">
 
 ## Meet Your Counseling Team
-------------
+---
 </div>
 <div class="box-counselors">
 <div>
@@ -99,11 +99,10 @@ If any of this resonates with you, let Georgia partner with you to help create t
 {{< /details >}}
 </div>
 </div>
-
-<div style="width: 40%">
+<div class="line-custom">
 
 ## Get in Touch
-------------
+---
 </div>
 <div style="text-align: center;">
 
@@ -116,11 +115,10 @@ If any of this resonates with you, let Georgia partner with you to help create t
 
 **Fax:** [(912) 504-1200](tel:(912)504-1200)  |  **Correspondence** PO Box 1222, Sylvania, GA 30460
 </div>
-
-<div style="width: 40%">
+<div class="line-custom">
 
 ## Good Faith Estimate
-------------
+---
 </div>
 You have the right to receive a “Good Faith Estimate” explaining how much your health care will cost.  
 ​Under the law, health care organizations need to give patients who don’t have insurance or who are not using insurance an estimate of the bill for medical items and services.

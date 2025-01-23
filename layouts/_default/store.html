@@ -140,11 +140,14 @@
       <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
       {{ end }}
     </section>
+    <!-- The Following Block is disabled to take out the store functionality till we are ready to launch the store -->
+    <!--
     ​​ <section class="products mx-auto px-2 flex flex-col flex-wrap max-w-full mt-0 prose lg:flex-row">
       {{ range .Site.Data.products }}
       {{ partial "product" . }}
       {{ end }}
     </section>
+    -->
   <footer class="pt-8 max-w-prose print:hidden">
 
     {{ partial "article-pagination.html" . }}

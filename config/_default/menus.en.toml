@@ -12,43 +12,47 @@
 
 [[main]]
   name = "Counseling"
-  weight = 20
-[[main]]
-  name = "In Person or Virtual"
-  parent = "Counseling"
-  pageRef = "In_Person_or_Virtual"
   weight = 10
 [[main]]
-  name = "What to Expect"
+  name = "Individual Counseling"
   parent = "Counseling"
-  pageRef = "What_to_Expect"
+  pageRef = "/services/individual-counseling"
+  weight = 10
+[[main]]
+  name = "Couples Counseling"
+  parent = "Counseling"
+  pageRef = "/services/couples-counseling"
   weight = 20
 [[main]]
-  name = "Payment Options"
-  parent = "Counseling"
-  pageRef = "Payment_Options"
-  weight = 30
+  name = "Services"
+  weight = 20
 [[main]]
-  name = "Supervision & CEs"
-  pageRef = "store"
-  weight = 30
+  name = "Supervision & Continuing Education"
+  parent = "Services"
+  pageRef = "/services/clinical-supervision"
+  weight = 10
+[[main]]
+  name = "Classes & Workshops"
+  parent = "Services"
+  pageRef = "/classes/anger-management"
+  weight = 20
 [[main]]
   name = "Resources"
   pageRef = "docs"
   weight = 40
-[[main]]
-  name = "Blog"
-  pageRef = "blog"
-  weight = 50
 [[main]]
   name = "Client Portal"
   pre = "hipaa"
   url = "https://egcs.theranest.com/home/"
   weight = 60
 [[subnavigation]]
-  name = "Our Team"
-  pageRef = "counselors"
-  wight = 10
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+#[[subnavigation]]
+#  name = "Our Team"
+#  pageRef = "counselors"
+#  wight = 10
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
