@@ -11,10 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
-[[main]]
   name = "Counseling"
   weight = 20
 [[main]]
@@ -34,17 +30,16 @@
   weight = 30
 [[main]]
   name = "Supervision & CEs"
-  #pre = "github"
   pageRef = "store"
   weight = 30
 [[main]]
   name = "Resources"
   pageRef = "docs"
   weight = 40
-#[[main]]
-#  name = "Blog"
-#  pageRef = "blog"
-#  weight = 50
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 50
 [[main]]
   name = "Client Portal"
   pre = "hipaa"
