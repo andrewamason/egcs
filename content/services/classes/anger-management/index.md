@@ -16,7 +16,7 @@ Our Anger Management Classes are designed to help individuals in Screven County,
 
 - **Understanding Anger:** Learn what triggers your anger, and how to recognize the early warning signs before it escalates.
 - **Effective Coping Strategies:** Discover techniques like deep breathing, mindfulness, and positive self-talk to regain control in the heat of the moment.
-- **Conflict Resolution: **Learn how to handle disagreements without letting anger take over, improving communication and resolving issues constructively.
+- **Conflict Resolution:** Learn how to handle disagreements without letting anger take over, improving communication and resolving issues constructively.
 - **Stress Management:** Understand how stress and other emotions contribute to anger and develop healthier ways to cope with life’s pressures.
 - **Building Emotional Intelligence:** Increase your self-awareness and emotional regulation to improve your relationships and overall quality of life.
 

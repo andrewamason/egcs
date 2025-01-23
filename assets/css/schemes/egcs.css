@@ -1,12 +1,19 @@
 /* EGCS scheme */
 :root {
 
-  --color-neutral: 239, 241, 239; /* Background */
-  /* RGB:#eff1ef */
+  /* RGB:#F0ECE2 */
+  --color-neutral: 240, 236, 226;     /* Background */
   
-  /* --color-neutral-50:  105, 105, 105; /* Alert Color */
-  /* --color-neutral-800: 105, 105, 105; /* Header Text */
-  /* --color-neutral-900: 105, 105, 105;  /* Menu Text */
+  --color-neutral-50: 248, 250, 252;  /* Alert Color */
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 100, 116, 139;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 30, 41, 59;    /* Header Text */
+  --color-neutral-900: 15, 23, 42;    /* Menu Text */
 
   /* RGB - #8FBC8F */
   --color-primary-50: 143, 188, 143;
