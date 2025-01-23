@@ -2,6 +2,7 @@
 title: "Parenting & Family Resources"
 description: "We understand that finding quality mental health resources can be a challenge, but we're here to help."
 summary: We understand that finding quality mental health resources can be a challenge, but we're here to help.
+weight: 20
 ---
 
 ## Mental Health Resources – Helpful Tools for Your Journey

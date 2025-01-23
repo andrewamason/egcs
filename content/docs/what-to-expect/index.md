@@ -2,6 +2,7 @@
 title: What to Expect When You Arrive at Our Office
 description: When you arrive for your first counseling session, we want you to feel at ease and confident that you’re in the right place. 
 summary: When you arrive for your first counseling session, we want you to feel at ease and confident that you’re in the right place. 
+weight: 10
 ---
 
 When you arrive for your first counseling session, we want you to feel at ease and confident that you’re in the right place. We’ve designed our space and our process to be relaxing and low-stress, so you can focus on the most important thing: your well-being.

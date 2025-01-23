@@ -2,8 +2,10 @@
 title: Insurance & Self Pay
 summary: Accepted Insurance & what you may need to ask prior to booking your first appointment
 description: Accepted Insurance & what you may need to ask prior to booking your first appointment
+weight: 30
 ---
 ## Currently Accepting the Following Insurances
+
 We are pleased to accept a wide range of insurance providers to make your therapy experience as seamless as possible. Currently, we are accepting the following:
 
 - Aetna

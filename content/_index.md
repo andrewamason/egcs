@@ -6,9 +6,10 @@ description: "Individualized Counseling for All Ages You may be wondering if cou
 <div style="text-align: center">
 
 # Welcome to Evergreen Counseling Services
+
 </div>
 
-<div style="text-align: center"> 
+<div style="text-align: center">
 {{< lead >}}We are glad you are here.{{< /lead >}}
 You may be wondering if counseling is the next step for you or a loved one. <br />
 It can feel overwhelming, but don't worry. We are here to help.
@@ -129,4 +130,3 @@ If any of this resonates with you, let Georgia partner with you to help create t
 <meta>
 <title> Welcome to Evergreen Counseling Servicese</title>
 </meta>
-
