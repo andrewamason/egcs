@@ -1,17 +1,17 @@
 ---
-title: "Documentation"
-description: "Learn how to use Blowfish and its features."
-
+title: "Resources"
+description: "Resources for our clients"
 cascade:
   showDate: false
+  showedit: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
+  showedit: false
+  showwordcount: false
+  showreadingtime: false
 ---
 
-{{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
-{{< /lead >}}
-
-This section contains everything you need to know about Blowfish. If you're new, check out the [Installation]({{< ref "docs" >}}) guide
+> “When we are listened to, it creates us, makes us unfold and expand.” <br />
+> -Karl A. Menniger
 
 ---

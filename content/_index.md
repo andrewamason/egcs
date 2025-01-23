@@ -9,7 +9,11 @@ description: "Individualized Counseling for All Ages You may be wondering if cou
 
 </div>
 
-<div style="text-align: center"> {{< lead >}}We are glad you are here.{{< /lead >}} </div>
+<div style="text-align: center">
+{{< lead >}}We are glad you are here.{{< /lead >}}
+You may be wondering if counseling is the next step for you or a loved one. <br />
+It can feel overwhelming, but don't worry. We are here to help.
+</div>
 <div class="line-custom">
 
 ## WE PROVIDE
@@ -121,20 +125,6 @@ If any of this resonates with you, let Georgia partner with you to help create t
 </div>
 <div class="line-custom">
 
-## Good Faith Estimate
-
----
-</div>
-You have the right to receive a “Good Faith Estimate” explaining how much your health care will cost.  
-​Under the law, health care organizations need to give patients who don’t have insurance or who are not using insurance an estimate of the bill for medical items and services.
-
-- You have the right to receive a Good Faith Estimate for the total expected cost of any non-emergency items or services.  This includes related costs like medical tests, prescription drugs, equipment, and hospital fees.
-- Make sure your health care organization gives you a Good Faith Estimate in writing at least 1 business day before your medical service or item. You can also ask your health care organization, and any other organization you choose, for a Good Faith Estimate before you schedule an item or service.
-- If you receive a bill that is at least $400 more than your Good Faith Estimate, you can dispute the bill.
-- Make sure to save a copy or picture of your Good Faith Estimate.
-
-For questions or more information about your right to a Good Faith Estimate, visit [www.cms.gov/nosurprises](http://www.cms.gov/nosurprises) or call [1-800-985-3059](tel:1-800-985-3059).
-
 <meta>
-<title> Welcome to Evergreen Counseling Servicese</title>
+<title> Welcome to Evergreen Counseling Services</title>
 </meta>
