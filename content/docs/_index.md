@@ -1,11 +1,15 @@
 ---
 title: "Documentation"
 description: "Learn how to use Blowfish and its features."
+layout: list
 
 cascade:
   showDate: false
+  showedit: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
+  showedit: false
+  showwordcount: false
 ---
 
 {{< lead >}}

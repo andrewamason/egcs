@@ -1,11 +1,10 @@
 ---
 title: STAYING EVERGREEN
-showauthor: false
-showDate: true
 date: 2021-11-15
 authors:
     - "Lauren-Amason"
 summary: Hello Again and Welcome Back!
+tags: ["therapy", "mental health", "Evergreen"]
 ---
 
 ## Hello Again and Welcome Back

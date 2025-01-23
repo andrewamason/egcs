@@ -1,11 +1,10 @@
 ---
 title: What is therapy versus what therapy is not
-showauthor: false
-showDate: true
 date: 2021-08-18
 authors:
     - "Lauren-Amason"
 summary: Therapy is nonjudgemental, Therapy is confidential, Therapy is helpful
+tags: ["therapy", "mental health", "Evergreen"]
 ---
 ## Therapy
 

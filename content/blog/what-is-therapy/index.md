@@ -1,16 +1,15 @@
 ---
 title: STAYING EVERGREEN
-showauthor: false
-showDate: true
 date: 2021-11-15
 authors:
     - "Lauren-Amason"
 summary: Hello Again and Welcome Back!
+tags: ["therapy", "mental health", "Evergreen"]
 ---
 
-##Hello Again and Welcome Back!
+## Hello Again and Welcome Back!
 
-In the first post, you got to know me and my therapeutic model. If you haven’t read that post I recommend going here. 
+In the first post, you got to know me and my therapeutic model. If you haven’t read that post I recommend going here.
 
 I get to share with you the meaning behind Evergreen Counseling Services and how it came to be! Evergreen Counseling Services, EGCS for short, really came through searching for opportunities of being more flexible for my family and a drive for wanting to start something of my own.
 
