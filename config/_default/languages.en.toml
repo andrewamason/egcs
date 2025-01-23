@@ -9,7 +9,7 @@ weight = 1
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/egcs_logo.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "Individualized Counseling for All Ages You may be wondering if counseling is the next step for you or a loved one. It can feel overwhelming, but don't worry. We are here to help."
 
 [params.author]
   name = "Evergreen Counseling Services"
