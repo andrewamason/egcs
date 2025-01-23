@@ -1,6 +1,6 @@
 ---
 #title: "Evergreen Counseling Services, LLC"
-description: "Evergreen Counseling Services"
+description: "Individualized Counseling for All Ages You may be wondering if counseling is the next step for you or a loved one. It can feel overwhelming, but don't worry. We are here to help."
 
 ---
 <div style="text-align: center">
