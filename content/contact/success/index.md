@@ -1,11 +1,13 @@
 ---
 title: Submission Successful
+slug: success
+layout: simple
 robots: false
 ---
 
 {{< lead >}}We are glad you are here. Thank you for Requesting more information.{{< /lead >}}
 
-##Next Steps:
+## Next Steps:
 
 If you plan to use insurance, please email a copy of your ID and insurance card to info@egcs.health
 You will receive an email from our Client Portal system called Theranest. Please create a log in and save your log in information for future appointments. Please complete all of the documentation. Our office will give you a call soon to answer any questions you may have.
