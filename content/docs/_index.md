@@ -9,6 +9,7 @@ cascade:
   showedit: false
   showwordcount: false
   showreadingtime: false
+  showBreadcrumbs: true
 ---
 
 > “When we are listened to, it creates us, makes us unfold and expand.” <br />
