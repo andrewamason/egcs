@@ -9,13 +9,13 @@ sharingLinks: false
 <!-- hidden fields & Attributes -->
 <input type="hidden" name="accessKey" value="fd1b3bd8-e54c-4528-8286-aa1f33110a4d">
 <input type="hidden" name="subject" value="Contact Form - egcs.health" />
-<input type="hidden" name="replyTo" value="info@egcs.health">
+<input type="text" name="replyTo" value="info@egcs.health" style="display:none">
 <input type="hidden" name="redirectTo" value="https://dev.egcs.health/contact/success">
 <!-- Data Fields -->
 <div class="box-contact-us">
 <div>
 <label for="fname">First Name</label><br />
-<input type="text" id="fname" name="First_Name" placeholder="First Name" required>
+<input type="text" id="fname" name="$First_Name" placeholder="First Name" required>
 </div>
 <div>
 <label for="fname">Last Name</lable> <br />
@@ -50,7 +50,7 @@ sharingLinks: false
 </div>
 <div>
 <input type="text" name="honeypot" style="display:none">
-<input type="submit" value="Submit" class="contact-button" style="color: white; background-color: #8FBC8F; border-radius: 4px; padding: 10px 15px;"/>
+<input type="submit" value="Submit" style="color: white; background-color: #8FBC8F; border-radius: 4px; padding: 10px 15px;"/>
 </div>
 </div>
 </form>

@@ -1,6 +1,7 @@
 ---
 title: Submission Successful
 slug: success
+layout: simple
 robots: false
 ---
 
