@@ -38,9 +38,9 @@ sharingLinks: false
 </div>
 <div>
 <label>How did you find us?</lable> <br />
-<input type="radio" name="$How-Did-You-Find-Us" value="Google Search" id="Google Search"> <label for="Google-Seach">Google Search</lable> <br />
-<input type="radio" name="$How-Did-You-Find-Us" value="Word of Mouth" id="Word of Mouth"> <label for="Word-of-Mouth">Word of Mouth</lable> <br />
-<input type="radio" name="$How-Did-You-Find-Us" value="Community Event" id="Community-Event"> <label for="Community-Event">Community Event</lable><br />
+<input type="radio" name="$How-Did-You-Find-Us" value="Google Search" id="Google Search"> <label for="Google-Seach">Google Search</label> <br />
+<input type="radio" name="$How-Did-You-Find-Us" value="Word of Mouth" id="Word of Mouth"> <label for="Word-of-Mouth">Word of Mouth</label> <br />
+<input type="radio" name="$How-Did-You-Find-Us" value="Community Event" id="Community-Event"> <label for="Community-Event">Community Event</label><br />
 </div>
 <div>
 <label for="message">What are two things you're currently struggling with?</label> <br />

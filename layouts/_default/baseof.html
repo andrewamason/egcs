@@ -36,7 +36,7 @@
   {{ else }}
   {{ partial "partials/header/basic.html" . }}
   {{ end }}
-  <div class="relative flex flex-col grow">
+  <div class="relative flex flex-col grow hide-on-print">
     <main id="main-content" class="grow">
       {{ block "main" . }}{{ end }}
       {{ if and (.Site.Params.footer.showScrollToTop | default true) (gt .WordCount 1) }}
@@ -55,7 +55,7 @@
   data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18" async></script>
 
   {{ end }}
-  <div id="customFloatingButton">
+  <div id="customFloatingButton" class="hide-on-print">
     <a href="/contact/">Get Started</a>
   </div>
   
