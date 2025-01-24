@@ -50,7 +50,7 @@ sharingLinks: false
 </div>
 <div>
 <input type="text" name="honeypot" style="display:none">
-<input type="submit" value="Submit" class="button"/>
+<input type="submit" value="Submit" class="contact-button" style="color: white; background-color: #8FBC8F; border-radius: 4px; padding: 10px 15px;"/>
 </div>
 </div>
 </form>
