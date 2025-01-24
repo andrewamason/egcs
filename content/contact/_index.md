@@ -44,7 +44,7 @@ sharingLinks: false
 </div>
 <div>
 <label for="message">What are two things you're currently struggling with?</label> <br />
-<textarea id="message" name="message"></textarea>                                                <br />
+<textarea id="message" name="$message-struggles" placeholder="Please do not put any PHI or medical details in this form"></textarea>                                                <br />
 </div>
 <div>
 </div>
