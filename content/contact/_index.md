@@ -4,6 +4,13 @@ description:
 layout: simple
 sharingLinks: false
 ---
+
+Taking the first step toward seeking support can feel overwhelming, but you don’t have to do it alone. We’re here to guide you through the process with compassion, understanding, and professionalism.
+
+Whether you’re exploring counseling for the first time or looking to continue your journey, we’re ready to help. Reach out today to schedule a consultation or ask any questions. We’re here to listen and support you every step of the way.  
+
+{{< lead >}} Let’s take this step together toward a healthier, happier you. {{< /lead >}}
+
 <!-- Make sure you don't change the form action-->
 <form action="https://api.staticforms.xyz/submit" method="post">
 <!-- hidden fields & Attributes -->
@@ -21,6 +28,8 @@ sharingLinks: false
 <label for="lname">Last Name</lable> <br />
 <input type="text" id="lname" name="$Last-Name" placeholder="Last Name" required>
 </div>
+</div>
+<div class="box-contact-us">
 <div>
 <label for="phone">Phone Number</lable> <br />
 <input type="tel" id="phone" name="$phone-number" placeholder="Phone Number" required>
@@ -29,6 +38,8 @@ sharingLinks: false
 <label for="email">Email</lable> <br />
 <input type="email" id="email" name="$email-address" placeholder="Email" required>
 </div>
+</div>
+<div class="box-contact-us">
 <div>
 <label>I Am Interested in:</label> <br />
 <input type="checkbox" name="$interested-in" id="Individual Counseling" value="Individual Counseling"> <label for="Individual Counseling">Individual Counseling</label> <br />
@@ -42,12 +53,14 @@ sharingLinks: false
 <input type="radio" name="$How-Did-You-Find-Us" value="Word of Mouth" id="Word of Mouth"> <label for="Word-of-Mouth">Word of Mouth</label> <br />
 <input type="radio" name="$How-Did-You-Find-Us" value="Community Event" id="Community-Event"> <label for="Community-Event">Community Event</label><br />
 </div>
+</div>
+<div class="box-contact-us">
 <div>
 <label for="message">What are two things you're currently struggling with?</label> <br />
 <textarea id="message" rows="4" cols="40" name="$message-struggles" placeholder="Please do not put any PHI or medical details in this form"></textarea>                                                <br />
 </div>
-<div>
 </div>
+<div class="box-contact-us">
 <div>
 <input type="text" name="honeypot" style="display:none">
 <input type="submit" value="Submit" style="color: white; background-color: #8FBC8F; border-radius: 4px; padding: 10px 15px;"/>
