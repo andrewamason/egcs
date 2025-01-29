@@ -134,13 +134,7 @@ blockquote .cite {
   color: #e74c3c;
 }
 
-.box-contact-us {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  white-space: normal;
-  margin-inline: 5%;
-blockquote .cite {
+.blockquote .cite {
   display: block;
   text-align: right;
   font-size: 0.875em;
@@ -152,21 +146,16 @@ blockquote .cite {
   flex-direction: row;
   flex-wrap: wrap;
   white-space: normal;
-  margin-inline: 5%;
+  /* margin-inline: 5%; */
 
 }
 
 .box-contact-us>* {
-  flex-basis: 50%;
+/* flex-basis: 50%; */
+  justify-content: flex-start;
   padding: 0 20px 20px 0;
-  flex: 1 1 45%;
+/*  flex: 1 1 45%; */
 }
-}
-
-.box-contact-us>* {
-  flex-basis: 50%;
-  padding: 0 20px 20px 0;
-  flex: 1 1 45%;
 }
 
 @media (max-width: 800px) {
