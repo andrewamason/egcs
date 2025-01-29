@@ -60,8 +60,12 @@ It can feel overwhelming, but don't worry. We are here to help.
 <div class="box-counselors">
 <div>
 
-![image](img/lauren-amason.jpg)
-
+{{< figure
+    src="img/lauren-amason.jpg"
+    alt="Lauren Amason"
+    nozoom=true
+    caption="Lauren Amason"
+    >}}
 ## Lauren Amason
 
 *Certified Professional Counselor Supervisor*   <br />
@@ -87,8 +91,12 @@ Lauren’s compassionate approach and dedication to her clients’ well-being ma
 </div>
 <div>
 
-![image](img/georgia-boswell.jpg)
-
+{{< figure
+    src="img/georgia-boswell.jpg"
+    alt="Georgia Boswell"
+    nozoom=true
+    caption="Georgia Boswell"
+    >}}
 ## Georgia Boswell
 
 *Gottman Level II Certified Counselor*  <br />

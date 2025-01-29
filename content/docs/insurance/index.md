@@ -9,7 +9,7 @@ sharingLinks: false
 ---
 <div class="hide-on-print">
 {{< figure
-    src="vecteezy_hand-chooses-a-emoticon-icons-healthcare-medical-symbol-on_8059904.jpg"
+    src="img/vecteezy_hand-chooses-a-emoticon-icons-healthcare-medical-symbol-on_8059904.jpg"
     alt="Hand Chooses a Emtion Icons Healthcare Medical Symbols"
     nozoom=true
     caption="Insurance Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/insurance)"

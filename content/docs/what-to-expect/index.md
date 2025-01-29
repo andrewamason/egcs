@@ -8,7 +8,7 @@ sharingLinks: false
 ---
 ---
 {{< figure
-    src="vecteezy_human-brain-tree-with-flowers-self-care-and-mental-health_22907001.jpg"
+    src="img/vecteezy_human-brain-tree-with-flowers-self-care-and-mental-health_22907001.jpg"
     alt="Human Brain Tree with Flowers self care and mental health"
     nozoom=true
     caption="Mental Health Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/mental-health)"
