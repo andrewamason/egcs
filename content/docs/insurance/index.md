@@ -3,9 +3,17 @@ title: Insurance & Self Pay
 summary: Accepted Insurance & what you may need to ask prior to booking your first appointment
 description: Accepted Insurance & what you may need to ask prior to booking your first appointment
 weight: 30
+ShowHero: false
+layout: page
 sharingLinks: false
 ---
 <div class="hide-on-print">
+{{< figure
+    src="vecteezy_hand-chooses-a-emoticon-icons-healthcare-medical-symbol-on_8059904.jpg"
+    alt="Hand Chooses a Emtion Icons Healthcare Medical Symbols"
+    nozoom=true
+    caption="Insurance Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/insurance)"
+    >}}
 
 ## Currently Accepting the Following Insurances
 
@@ -68,3 +76,19 @@ Your mental health is important, and we’re here to make sure you get the care 
 {{< article link="/docs/good-faith-estimate/" >}}
 
 </div>
+
+
+<!-- Insurance Logos Gallery -->
+{{< gallery >}}
+  <img src="/gallery/Aetna-Logo.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/Ambetter.webp" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/amerigroup.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/BCBS.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/caresource-logo.svg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/Cigna.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/GA_MCD_logo_web.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/Humana-Logo.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/Medicaid.webp" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/Medicare.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/gallery/UnitedHealthcare.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
