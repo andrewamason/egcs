@@ -1,6 +1,7 @@
 ---
 #title: "Evergreen Counseling Services, LLC"
 description: "Individualized Counseling for All Ages You may be wondering if counseling is the next step for you or a loved one. It can feel overwhelming, but don't worry. We are here to help."
+layout: custom
 
 ---
 <div style="text-align: center">
@@ -14,6 +15,9 @@ description: "Individualized Counseling for All Ages You may be wondering if cou
 You may be wondering if counseling is the next step for you or a loved one. <br />
 It can feel overwhelming, but don't worry. We are here to help.
 </div>
+
+<!-- We Provide Block -->
+<div>
 <div class="line-custom">
 
 # WE PROVIDE
@@ -40,16 +44,9 @@ It can feel overwhelming, but don't worry. We are here to help.
 **Continuing Education** for other clinicians interested in learning more about mental health <br /> [More Information](/services/continuing-ed/)
 </div>
 </div>
-
-<!--
-<div style="text-align: center">
-
-<h2>Clinical Supervision & Courses</h2>
-
-**Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br />
-**Continuing Education** for other clinicians interested in learning more about mental health
-</div><br /> -->
-
+</div>
+<!-- Counseling Team Block -->
+<div>
 <div class="line-custom">
 
 # Meet Your Counseling Team
@@ -108,6 +105,10 @@ If any of this resonates with you, let Georgia partner with you to help create t
 {{< /details >}}
 </div>
 </div>
+</div>
+
+<!-- Get In Touch Block -->
+<div>
 <div class="line-custom">
 
 # Get in Touch
@@ -125,10 +126,12 @@ If any of this resonates with you, let Georgia partner with you to help create t
 
 [215 Industrial Rd, Sylvania, GA](maps://maps.google.com/maps?daddr=215+Industrial+Rd,+Sylvania,+GA+30467)<br /><br />
 
-**Fax:** [(912) 504-1200](tel:(912)504-1200)  |  **Correspondence** PO Box 1222, Sylvania, GA 30460
+**Fax:** [(912) 504-1200](tel:(912)504-1200)  |  **Correspondence** PO Box 1223, Sylvania, GA 30460
 </div>
 <div class="line-custom">
 
 <meta>
 <title> Welcome to Evergreen Counseling Services</title>
 </meta>
+
+</div>
