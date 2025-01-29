@@ -168,7 +168,7 @@ html,
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family:  ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji, "Aqua Grotesque",";
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -218,7 +218,9 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h1,
+h1 {
+  font-family: "Aqua Grotesque", sans-serif;
+},
 h2,
 h3,
 h4,
@@ -1197,7 +1199,6 @@ select {
   --tw-prose-pre-code:rgba(var(--color-neutral-700), 1);
   --tw-prose-pre-bg:rgba(var(--color-neutral-50), 1);
   --tw-prose-th-borders:rgba(var(--color-neutral-500), 1);
-  --tw-prose-td-borders:rgba(var(--color-neutral-300), 1);
   --tw-prose-invert-body:rgba(var(--color-neutral-300), 1);
   --tw-prose-invert-headings:rgba(var(--color-neutral-50), 1);
   --tw-prose-invert-lead:rgba(var(--color-neutral-500), 1);

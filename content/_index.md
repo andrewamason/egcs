@@ -16,8 +16,7 @@ It can feel overwhelming, but don't worry. We are here to help.
 </div>
 <div class="line-custom">
 
-## WE PROVIDE
-
+# WE PROVIDE
 ---
 </div>
 <div class="box-services">
@@ -53,8 +52,7 @@ It can feel overwhelming, but don't worry. We are here to help.
 
 <div class="line-custom">
 
-## Meet Your Counseling Team
-
+# Meet Your Counseling Team
 ---
 </div>
 <div class="box-counselors">
@@ -64,7 +62,6 @@ It can feel overwhelming, but don't worry. We are here to help.
     src="img/lauren-amason.jpg"
     alt="Lauren Amason"
     nozoom=true
-    caption="Lauren Amason"
     >}}
 ## Lauren Amason
 
@@ -95,7 +92,6 @@ Lauren’s compassionate approach and dedication to her clients’ well-being ma
     src="img/georgia-boswell.jpg"
     alt="Georgia Boswell"
     nozoom=true
-    caption="Georgia Boswell"
     >}}
 ## Georgia Boswell
 
@@ -114,7 +110,7 @@ If any of this resonates with you, let Georgia partner with you to help create t
 </div>
 <div class="line-custom">
 
-## Get in Touch
+# Get in Touch
 
 ---
 </div>
