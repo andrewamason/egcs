@@ -3,6 +3,7 @@ title: Insurance & Self Pay
 summary: Accepted Insurance & what you may need to ask prior to booking your first appointment
 description: Accepted Insurance & what you may need to ask prior to booking your first appointment
 weight: 30
+sharingLinks: false
 ---
 <div class="hide-on-print">
 

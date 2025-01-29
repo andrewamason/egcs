@@ -3,6 +3,7 @@ title: Supervisees
 description: If you're in the process of becoming fully licensed in Georgia or are looking for guidance during your supervision hours, you're not alone! It's an important step in your professional development, and there are several resources available to help you navigate the requirements and connect with supervisors.
 summary: If you're in the process of becoming fully licensed in Georgia or are looking for guidance during your supervision hours, you're not alone! It's an important step in your professional development, and there are several resources available to help you navigate the requirements and connect with supervisors.
 weight: 50
+sharingLinks: false
 ---
 Secretary of State- https://sos.ga.gov/board-professional-counselors-social-workers-and-marriage-family-therapists
 
