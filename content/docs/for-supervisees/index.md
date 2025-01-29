@@ -7,7 +7,7 @@ ShowHero: false
 sharingLinks: false
 ---
 {{< figure
-    src="vecteezy_teamwork-togetherness-collaboration-business-teamwork-concept_3113915.jpg"
+    src="img/vecteezy_teamwork-togetherness-collaboration-business-teamwork-concept_3113915.jpg"
     alt="teamwork togetherness collaboration business teamwork concept"
     nozoom=true
     caption="Collaboration Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/collaboration)"

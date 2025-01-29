@@ -8,7 +8,7 @@ sharingLinks: false
 ---
 ---
 {{< figure
-    src="vecteezy_world-mental-health-day-illustration-concept-world-health_22874442.jpg"
+    src="img/vecteezy_world-mental-health-day-illustration-concept-world-health_22874442.jpg"
     alt="World mental health day concept"
     nozoom=true
     caption="Mental Health Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/mental-health)"

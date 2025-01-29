@@ -9,7 +9,7 @@ sharingLinks: false
 
 ---
 {{< figure
-    src="vecteezy_stethoscope-with-prescription-clipboard-and-laptop-doctor_46673198.jpg"
+    src="img/vecteezy_stethoscope-with-prescription-clipboard-and-laptop-doctor_46673198.jpg"
     alt="Stethoscope with prescription clipboard and laptop doctor"
     nozoom=true
     caption="Collaboration Stock photos by [Vecteezy](https://www.vecteezy.com/free-photos/aid)"
