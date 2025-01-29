@@ -51,7 +51,13 @@
   flex-direction: row;
   flex-wrap: wrap;
   white-space: normal;
-  margin-inline: 3%;
+ /* margin-inline: 3%; */
+}
+.box-services img {
+  object-fit: contain;
+  height: 280px;
+  margin: auto;
+
 }
 
 .box-services>* {
@@ -192,3 +198,4 @@ blockquote .cite {
   font-family: "Aqua-Grotesque";
   src: url("/font/aqua.woff2");
 }
+

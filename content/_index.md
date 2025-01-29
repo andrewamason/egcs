@@ -25,6 +25,14 @@ It can feel overwhelming, but don't worry. We are here to help.
 </div>
 <div class="box-services">
 <div>
+
+{{< figure
+    src="img/website_2.png"
+    alt="teamwork togetherness collaboration business teamwork concept"
+    nozoom=true
+    >}}
+</div>
+<div>
 <h2>Counseling</h2>
 
 **Individual Counseling** for children, teens, and adults <br /> [More Information](/services/individual-counseling/)<br />
@@ -37,12 +45,29 @@ It can feel overwhelming, but don't worry. We are here to help.
 **Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways <br /> [More Information](/classes/anger-management/)
 </div>
 <div>
+
+{{< figure
+    src="img/website_8.png"
+    alt="teamwork togetherness collaboration business teamwork concept"
+    nozoom=true
+    >}}
+</div>
+<div>
+
+{{< figure
+    src="img/website_10.png"
+    alt="teamwork togetherness collaboration business teamwork concept"
+    nozoom=true
+    >}}
+</div>
+<div>
 <h2>Clinical Supervision & Courses</h2>
 
 **Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br /> [More Information](/services/clinical-supervision/) <br />
 
 **Continuing Education** for other clinicians interested in learning more about mental health <br /> [More Information](/services/continuing-ed/)
 </div>
+
 </div>
 </div>
 <!-- Counseling Team Block -->
