@@ -5,6 +5,8 @@ description: Accepted Insurance & what you may need to ask prior to booking your
 weight: 30
 sharingLinks: false
 ---
+<div class="hide-on-print">
+
 ## Currently Accepting the Following Insurances
 
 We are pleased to accept a wide range of insurance providers to make your therapy experience as seamless as possible. Currently, we are accepting the following:
@@ -33,17 +35,29 @@ To ensure you have all the information you need and avoid any surprises, we reco
 
 To help you get the exact answers you need from your insurance, we’ve provided an Income Verification Form. This form will help you gather the necessary details to confirm your coverage, co-pays, and any other costs you may be responsible for.
 
-### INCOME VERIFICATION FORM
+</div>
+<div class="print">
+
+### INSURANCE VERIFICATION WORKSHEET
 
 When calling your insurance company be sure to tell them that you are seeing a licensed professional counselor.
-Our NPI (national provider identification) number is *1174196612*.
+Our NPI number[^1] is *1174196612*.
 
-1. Is Evergreen Counseling Services, LLC in network for my plan?
-2. Do my benefits include outpatient counseling? (Procedure codes *90791* and *90837*)
-3. Are there any exclusions or limitations (such as limit to number of visits or limited telehealth services)? ______
-4. Are my visits subject to a deductible? If yes, has my deductible been met for the year?______
-5. Am I responsible for any copay or coinsurance for the visit?____________
-6. Is there a different copay or coinsurance for telehealth services? ________
+1. Is Evergreen Counseling Services, LLC in network for my plan? <input type="radio" Name="In-Plan-No" value="Yes" id="In-Plan"> <label for="In-Plan">Yes</label> <input type="radio" Name="In-Plan-No" value="No" id="In-Plan"> <label for="No">No</label>
+2. Do my benefits include outpatient counseling?[^2] <input type="radio" Name="In-Plan-No" value="Yes" id="In-Plan"> <label for="In-Plan">Yes</label> <input type="radio" Name="In-Plan-No" value="No" id="In-Plan"> <label for="No">No</label>
+3. Are there any exclusions or limitations?[^3] ______
+4. Are my visits subject to a deductible? <input type="radio" Name="In-Plan-No" value="Yes" id="In-Plan"> <label for="In-Plan">Yes</label> <input type="radio" Name="In-Plan-No" value="No" id="In-Plan"> <label for="No">No</label>
+   1. If yes, has my deductible been met for the year? ______
+5. Am I responsible for any copay or coinsurance for the visit? ______
+6. Is there a different copay or coinsurance for telehealth services? ______
+
+[^1]: National Provider Identification Number
+[^2]: Procedure codes *90791* and *90837*
+[^3]: For example a limit to number of visits or limited telehealth services coverage
+</div>
+<div class="hide-on-print">
+
+[Print the Insurance Verification Worksheet](javascript:if(window.print)window.print())
 
 ## Don’t See Your Insurance? Not a Problem!
 
@@ -52,3 +66,5 @@ If you don’t see your insurance or if you're self-pay, simply contact our offi
 Your mental health is important, and we’re here to make sure you get the care you need, no matter your insurance situation. Reach out today, and we’ll work with you to find a solution that fits.
 
 {{< article link="/docs/good-faith-estimate/" >}}
+
+</div>
