@@ -151,10 +151,3 @@ If any of this resonates with you, let Georgia partner with you to help create t
 
 **Fax:** [(912) 504-1200](tel:(912)504-1200)  |  **Correspondence** PO Box 1223, Sylvania, GA 30460
 </div>
-<div class="line-custom">
-
-<meta>
-<title> Welcome to Evergreen Counseling Services</title>
-</meta>
-
-</div>
