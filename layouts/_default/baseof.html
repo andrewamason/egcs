@@ -6,8 +6,10 @@
   {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " light" }}"
   data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
 {{- partial "head.html" . -}}
+
 <!-- Add Font Awesome Icons-->
 <script async src="https://kit.fontawesome.com/5814c79ace.js" crossorigin="anonymous"></script>
+
 <!-- The Following Block is disabled to take out the store functionality till we are ready to launch the store -->
  <!--
 <script src="<https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js>"></script>
@@ -24,8 +26,7 @@
 <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css"> 
 {{ end }}
 -->
-<body
-  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
+<body class="flex flex-col h-screen px-6 m-auto max-w-7xl text-lg leading-7 bg-neutral text-neutral-900 sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400">
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
@@ -50,36 +51,8 @@
     {{- partial "search.html" . -}}
     {{ end }}
   </div>
-</body>
-{{ if .Site.Params.buymeacoffee.globalWidget | default false }}
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-  data-id="{{ .Site.Params.buymeacoffee.identifier }}" data-description="Support me on Buy me a coffee!" data-message="{{ .Site.Params.buymeacoffee.globalWidgetMessage | default "" }}"
-  data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18" async></script>
-
-  {{ end }}
+</div>
   <div id="customFloatingButton" class="hide-on-print">
     <a href="/contact/">Get Started</a>
   </div>
-  
-  <style>
-    #customFloatingButton {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 1000;
-    }
-    #customFloatingButton a {
-        border-radius: 25px;
-        display: inline-block;
-        background-color: #34c946;
-        color: white;
-        padding: 15px 30px;
-        text-decoration: none;
-        box-shadow: 0px 5px 10px -5px rgba(0,0,0,0.5);
-        transition: 200ms;
-    }
-    #customFloatingButton a:hover {
-        transform: scale(1.04);
-    }
-  </style>
 </html>
