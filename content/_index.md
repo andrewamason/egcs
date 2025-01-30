@@ -24,7 +24,7 @@ It can feel overwhelming, but don't worry. <br />
 
 </div>
 <div class="box-services" style="margin-top: 5px">
-<div>
+<div class="animated-box-left">
 
 {{< figure
     src="img/website_8.png"
@@ -32,14 +32,14 @@ It can feel overwhelming, but don't worry. <br />
     nozoom=true
     >}}
 </div>
-<div>
+<div class="animated-box-left">
 <h2>Counseling</h2>
 
 **Individual Counseling** for children, teens, and adults <br /> [More Information](/services/individual-counseling/)<br />
 
 **Couple’s Counseling** for couples looking to get help for their marriage or couples interested in premarital counseling <br /> [More Information](/services/couples-counseling/)
 </div>
-<div>
+<div class="animated-box-right" style="animation-delay: 1s;">
 
 {{< figure
     src="img/website_11.png"
@@ -47,13 +47,13 @@ It can feel overwhelming, but don't worry. <br />
     nozoom=true
     >}}
 </div>
-<div>
+<div class="animated-box-right" style="animation-delay: 1s;">
 <h2>Classes & Workshops</h2>
 
 **Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways <br /> [More Information](/classes/anger-management/)
 </div>
 
-<div>
+<div class="animated-box-left" style="animation-delay: 2s;">
 
 {{< figure
     src="img/website_10.png"
@@ -61,7 +61,7 @@ It can feel overwhelming, but don't worry. <br />
     nozoom=true
     >}}
 </div>
-<div>
+<div class="animated-box-left" style="animation-delay: 2s;">
 <h2>Clinical Supervision & Courses</h2>
 
 **Supervision** for other counselors or organizations with counselors who are interested in becoming fully licensed <br /> [More Information](/services/clinical-supervision/) <br />
