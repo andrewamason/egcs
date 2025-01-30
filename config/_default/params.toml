@@ -10,13 +10,14 @@ defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = false
-enableCodeCopy = true
+enableCodeCopy = false
 
 replyByEmail = false
 
 mainSections = ["docs"]
 # robots = ""
 
+disableImageZoom = true
 disableImageOptimization = false
 disableTextInHeader = true
 # backgroundImageWidth = 1200

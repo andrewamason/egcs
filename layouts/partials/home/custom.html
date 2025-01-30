@@ -1,8 +1,5 @@
-<article class="prose dark:prose-invert" style="max-width:100%">
-  {{ with .Title }}
-    <header>
-      <h1>{{ . | emojify }}</h1>
-    </header>
-  {{ end }}
+<article class="max-w-full prose lg:px-14 xl:px-24 leading-7 px-14">
+  {{ partial "partials/banner/basic.html" . }}
+
   <section>{{ .Content }}</section>
 </article>

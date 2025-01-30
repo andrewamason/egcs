@@ -1,33 +1,33 @@
 ---
-#title: "Evergreen Counseling Services, LLC"
+title: "Evergreen Counseling Services, LLC"
 description: "Individualized Counseling for All Ages You may be wondering if counseling is the next step for you or a loved one. It can feel overwhelming, but don't worry. We are here to help."
 layout: custom
 
 ---
-<div style="text-align: center">
+<!--
+<div class="px-6 m-auto max-w-full text-lg leading-7 bg-neutral text-neutral-900 sm:px-0 md:px-0 lg:px-0 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400" style="background-color: green;">
 
-# Welcome to Evergreen Counseling Services
-
-</div>
-
-<div style="text-align: center">
-{{< lead >}}We are glad you are here.{{< /lead >}}
+<h1> Welcome to Evergreen Counseling Services</h1>
+{{< lead >}}
 You may be wondering if counseling is the next step for you or a loved one. <br />
-It can feel overwhelming, but don't worry. We are here to help.
+It can feel overwhelming, but don't worry. <br />
+ We are here to help.
+ {{< /lead >}}
 </div>
-
+<div>
+-->
 <!-- We Provide Block -->
 <div>
-<div class="line-custom">
+<div style="margin-top: 3rem; margin-bottom: .5rem; width: 30%">
 
-# WE PROVIDE
----
+<h1 style="border-bottom: 1px solid #000000">WE PROVIDE  </h1>
+
 </div>
-<div class="box-services">
+<div class="box-services" style="margin-top: 5px">
 <div>
 
 {{< figure
-    src="img/website_2.png"
+    src="img/website_8.png"
     alt="teamwork togetherness collaboration business teamwork concept"
     nozoom=true
     >}}
@@ -40,18 +40,19 @@ It can feel overwhelming, but don't worry. We are here to help.
 **Couple’s Counseling** for couples looking to get help for their marriage or couples interested in premarital counseling <br /> [More Information](/services/couples-counseling/)
 </div>
 <div>
-<h2>Classes & Workshops</h2>
-
-**Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways <br /> [More Information](/classes/anger-management/)
-</div>
-<div>
 
 {{< figure
-    src="img/website_8.png"
+    src="img/website_11.png"
     alt="teamwork togetherness collaboration business teamwork concept"
     nozoom=true
     >}}
 </div>
+<div>
+<h2>Classes & Workshops</h2>
+
+**Anger Management Classes** to work on overcoming anger ourbursts and managing life frustrations in healthier ways <br /> [More Information](/classes/anger-management/)
+</div>
+
 <div>
 
 {{< figure
@@ -72,10 +73,10 @@ It can feel overwhelming, but don't worry. We are here to help.
 </div>
 <!-- Counseling Team Block -->
 <div>
-<div class="line-custom">
+<div style="margin-top: 3rem; margin-bottom: .5rem; width: 60%">
 
-# Meet Your Counseling Team
----
+<h1 style="border-bottom: 1px solid #000000">Meet Your Counseling Team</h1>
+
 </div>
 <div class="box-counselors">
 <div>
@@ -134,11 +135,8 @@ If any of this resonates with you, let Georgia partner with you to help create t
 
 <!-- Get In Touch Block -->
 <div>
-<div class="line-custom">
-
-# Get in Touch
-
----
+<div style="margin-top: 3rem; margin-bottom: .5rem; width: 30%">
+<h1 style="border-bottom: 1px solid #000000">Get in Touch</h1>
 </div>
 <div style="text-align: center;">
 
